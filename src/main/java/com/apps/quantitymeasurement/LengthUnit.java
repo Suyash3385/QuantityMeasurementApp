@@ -1,6 +1,6 @@
 package com.apps.quantitymeasurement;
 
-public enum LengthUnit implements IMeasurable {
+public enum LengthUnit implements IMeasureable {
 
     FEET(12.0),
     INCHES(1.0),
