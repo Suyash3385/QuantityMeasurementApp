@@ -2,7 +2,7 @@ package com.apps.quantitymeasurement;
 
 import java.util.Objects;
 
-public class Quantity<U extends IMeasureable> {
+public class Quantity<U extends IMeasurable> {
 
     private final double value; // value of quantity
     private final U unit;       // unit type
