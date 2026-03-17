@@ -390,6 +390,6 @@ src/test/java/com.apps.quantitymeasurement
 
 View the full project implementation here:
 
-[https://github.com/Saud0786/QuantityMeasurementApp/tree/feature/UC16-JDBCPersistence](https://github.com/Saud0786/QuantityMeasurementApp/tree/feature/UC16-JDBCPersistence)
+[https://github.com/Suyash3385/QuantityMeasurementApp/tree/feature/UC16-Database-Integration-with-JDBC-for-Quantity-Measurement-Persistence/src)
 
 ---
