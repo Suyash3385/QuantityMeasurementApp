@@ -386,10 +386,4 @@ src/test/java/com.apps.quantitymeasurement
 
 ---
 
-# GitHub Repository
 
-View the full project implementation here:
-
-[https://github.com/Suyash3385/QuantityMeasurementApp/tree/feature/UC16-Database-Integration-with-JDBC-for-Quantity-Measurement-Persistence/src)
-
----
